@@ -12,8 +12,8 @@ My name is Saad Osman and I'm a freelance developer looking for full time work. 
 ⚡ Work experience:
 
 - Operations Associate at the University of Minnesota Medical School. [Minneaplis Minnesota, MN]
-- Sampbrilla DevOps Intern
-- Kipsu Software Engineer Internship
+- Sanpbrilla DevOps Unpaid Intern: Writing documentation
+- Kipsu Software Engineer Internship: Worked on Ads team, using HTML, CSS, JS, Vue(Basics)
 - Sales at Target. [Saint Paul, MN]
 - Teaching Assistant at the Univeristy of Minnesota for Biochemistry. [Minneaplis Minnesota, MN]
 - Teaching Assistant at Hamline Univeristy for Calc I and II. [Saint Paul, MN]
