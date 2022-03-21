@@ -7,7 +7,8 @@
 - 📫 How to reach me: my email is saadosman450@gmail.com; My website is currently down, making neccessary changes! 
 
 🔭Tech Stack: 
--   React, Html, CSS, JS, Pytom, Next.js, Node.js, Mongo.db. Express, PostgresSQL, Material UI
+-   React, Html, CSS, JS, Pytom, Next.js, Node.js, Mongo.db. Express, PostgresSQL
+-   Design: Material UI, ModuleCSS, Styled Components, SCSS
 
 My name is Saad Osman and I'm a freelance developer looking for full time work. Here's some info about me!
 
