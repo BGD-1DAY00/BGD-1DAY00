@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BGD-1DAY00
 
 
-- 👀 I’m interested in Software Development, Full Stack Development
-- 🌱 I’m currently learning React(do you ever stop!), Nodejs, express, Mongodb, Firebase, Graphql
+- 👀 I’m interested in Software Development, Web & Mobile
 - 💞️ I’m looking to collaborate on any and all projects that cater to this tech stack.... or not 
 - 📫 How to reach me: my email is saadosman450@gmail.com; My website is currently down, making neccessary changes! 
 
@@ -22,9 +21,7 @@ My name is Saad Osman and I'm a freelance developer looking for full time work. 
 - Teaching Assistant at Hamline Univeristy for Calc I and II. [Saint Paul, MN]
 
 🔭 Current projects and Academia:
--   Working on improving my understanding of databases, unit testing via jest
 -   Data Structures
--   A React store built with the MERN Stack
 
 🌱 Interests:
 
