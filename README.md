@@ -5,10 +5,8 @@
 - 💞️ I’m looking to collaborate on any and all projects that cater to this tech stack.... or not 
 - 📫 How to reach me: my email is saadosman450@gmail.com; My website is currently down, making neccessary changes! 
 
+Looking to work in Start-Ups
 
-
-
-⚡ Work experience:
 
 
 
