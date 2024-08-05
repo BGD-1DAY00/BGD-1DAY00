@@ -1,20 +1,6 @@
 - 👋 Hi, I’m @BGD-1DAY00
 
-
-- 👀 I’m interested in Software Development, Web & Mobile
-- 💞️ I’m looking to collaborate on any and all projects that cater to this tech stack.... or not 
-- 📫 How to reach me: my email is My website is currently down, making neccessary changes! 
-
-Looking to work in Start-Ups
-
-
-
-
-🌱 Interests:
-
--   Full Stack Developemnt
--   NBA, Whatever team lebron is on!
--   KDramas on Netflix
+I'm a software engineer sometimes
 
 
 
