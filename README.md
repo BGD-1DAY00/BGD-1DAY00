@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BGD-1DAY00
 
-I'm a software engineer sometimes
+I'm a software engineer 
 
 
 
