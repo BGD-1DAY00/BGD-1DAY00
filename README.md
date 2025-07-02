@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BGD-1DAY00
-
-I'm a software engineer 
+- 👋 Hi, I’m the mediocre dev 😭
+I work hard every day to be less mediocre - it'll never be enough lol
+Don't hire me, unless...
 
 
 
