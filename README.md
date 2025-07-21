@@ -2,8 +2,7 @@
   
 I work hard every day to be less mediocre - it'll never be enough lol
 
-Don't hire me, unless...
-
+Feel free to reach out at any time: saadosman450@gmail.com
 
 
 <!---
