@@ -1,4 +1,4 @@
-- 👋 Hi, I’m arc (medicore dev) 😭
+- 👋 Hi, I’m arc 
   
 I work hard every day to be less mediocre - it'll never be enough lol
 
